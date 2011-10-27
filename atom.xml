@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Department of redundancy redundancy department]]></title>
   <link href="http://rainbowda.sh/atom.xml" rel="self"/>
   <link href="http://rainbowda.sh/"/>
-  <updated>2011-10-27T15:46:18+02:00</updated>
+  <updated>2011-10-27T15:48:24+02:00</updated>
   <id>http://rainbowda.sh/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[map]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
