@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://rainbow-dash.github.com/atom.xml" rel="self"/>
-  <link href="http://rainbow-dash.github.com/"/>
-  <updated>2011-10-27T15:22:47+02:00</updated>
-  <id>http://rainbow-dash.github.com/</id>
+  <link href="http://rainbowda.sh/atom.xml" rel="self"/>
+  <link href="http://rainbowda.sh/"/>
+  <updated>2011-10-27T15:46:18+02:00</updated>
+  <id>http://rainbowda.sh/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
     
