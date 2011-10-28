@@ -6,10 +6,10 @@ p, li {
     hyphens: auto;
 }
         
-header {
+body > header {
     background:#e1f1fd url('/images/custom/header.jpg') no-repeat right middle;
 }
 
-nav {
+body > nav {
     background-color:#bbdff4;
 }
