@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Reibungsverlust]]></title>
-  <link href="http://rainbowda.sh/atom.xml" rel="self"/>
+  <title><![CDATA[Category: menschen | Reibungsverlust]]></title>
+  <link href="http://rainbowda.sh/blog/categories/menschen/atom.xml" rel="self"/>
   <link href="http://rainbowda.sh/"/>
   <updated>2011-10-28T11:56:35+02:00</updated>
   <id>http://rainbowda.sh/</id>
