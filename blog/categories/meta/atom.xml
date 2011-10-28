@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meta | Regenbogenpony]]></title>
+  <link href="http://rainbowda.sh/blog/categories/meta/atom.xml" rel="self"/>
+  <link href="http://rainbowda.sh/"/>
+  <updated>2011-10-28T20:41:23+02:00</updated>
+  <id>http://rainbowda.sh/</id>
+  <author>
+    <name><![CDATA[map]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Erster!]]></title>
+    <link href="http://rainbowda.sh/blog/erster/"/>
+    <updated>2011-10-28T20:19:00+02:00</updated>
+    <id>http://rainbowda.sh/blog/erster</id>
+    <content type="html"><![CDATA[<p>Ja, ich wechsele die Blogs im Moment irgendwie schneller als andere ihre Socken. Alters-Aufmerksamkeits-Defizit Syndrom gepaart mit Domain-Sammelsucht, vermutlich. Sorry.</p>
+
+<p>Wenigstens hab ich diesmal den einen halbwegs brauchbaren Artikel mit umgezogen. Ist ja auch schon mal was, oder? Ansonsten probier ich hier mal - ganz undogmatisch - Octopress aus, jetzt. Am Farbschema muss ich noch drehen, aber bisher macht das schon einen sehr angenehmen Eindruck.</p>
+]]></content>
+  </entry>
+  
+</feed>

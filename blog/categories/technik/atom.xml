@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: technik | Regenbogenpony]]></title>
+  <link href="http://rainbowda.sh/blog/categories/technik/atom.xml" rel="self"/>
+  <link href="http://rainbowda.sh/"/>
+  <updated>2011-10-28T20:41:23+02:00</updated>
+  <id>http://rainbowda.sh/</id>
+  <author>
+    <name><![CDATA[map]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Was benutzt ihr eigentlich zum podcasten?]]></title>
+    <link href="http://rainbowda.sh/blog/podcastkram/"/>
+    <updated>2011-10-28T20:24:00+02:00</updated>
+    <id>http://rainbowda.sh/blog/podcastkram</id>
+    <content type="html"><![CDATA[<p>Das ist die Frage, die öfter kommt. Deshalb hier die aktuelle Ausstattung.</p>
+
+<h3>Tascam DR-680</h3>
+
+<p>Unser <a href="http://tascam.com/product/dr-680/">neuer Recorder</a>. Macht keine Zicken (im Gegensatz zum Zoom R24) und nimmt bis zu vier XLR und zwei Klinken mit Phantomstrom auf. &lt;3 und so.</p>
+
+<h3>Samson C-que8</h3>
+
+<p>Der alte Behringer <a href="http://www.samsontech.com/samson/products/processors/c-class/cque8/">Kopfhörerverstärker</a>, hat wie erwartet langsam Altersschwächen. Deshalb jetzt was ordentliches, von Onkel Tim empfohlenes. Macht gut wumms, ist aufgeräumt und rauscht nicht so viel.</p>
+
+<h3>beyerdynamic DT 297 PV MK II, 80 Ohm</h3>
+
+<p>Die <a href="beyerdynamic">Headsets</a> sind die gleichen, guten alten beyerdynamics. Ein altes MK I tut auch noch seine Dienste. Servicehinweis: Beim Bestellen das Kabel nicht vergessen!</p>
+
+<h3>Hindenburg</h3>
+
+<p>Unsere <a href="http://hindenburgsystems.com/">Audioschnitt Software</a>. Kann auch den ganzen Chaptermark und HE-AAC Unsinn. (Unsere Webseite funktioniert zu gleichen Anteilen mit Javascript und Spucke.)</p>
+]]></content>
+  </entry>
+  
+</feed>
