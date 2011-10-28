@@ -4,7 +4,7 @@
   <title><![CDATA[Regenbogenpony]]></title>
   <link href="http://rainbowda.sh/atom.xml" rel="self"/>
   <link href="http://rainbowda.sh/"/>
-  <updated>2011-10-28T20:44:50+02:00</updated>
+  <updated>2011-10-28T20:47:29+02:00</updated>
   <id>http://rainbowda.sh/</id>
   <author>
     <name><![CDATA[map]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Was benutzt ihr zum podcasten?]]></title>
-    <link href="http://rainbowda.sh/blog/podcastkram/"/>
+    <link href="http://rainbowda.sh/podcastkram/"/>
     <updated>2011-10-28T20:24:00+02:00</updated>
-    <id>http://rainbowda.sh/blog/podcastkram</id>
+    <id>http://rainbowda.sh/podcastkram</id>
     <content type="html"><![CDATA[<p>Das ist die Frage, die öfter kommt. Deshalb hier die aktuelle Ausstattung.</p>
 
 <h3>Tascam DR-680</h3>
@@ -40,9 +40,9 @@
   
   <entry>
     <title type="html"><![CDATA[Erster!]]></title>
-    <link href="http://rainbowda.sh/blog/erster/"/>
+    <link href="http://rainbowda.sh/erster/"/>
     <updated>2011-10-28T20:19:00+02:00</updated>
-    <id>http://rainbowda.sh/blog/erster</id>
+    <id>http://rainbowda.sh/erster</id>
     <content type="html"><![CDATA[<p>Ja, ich wechsele die Blogs im Moment irgendwie schneller als andere ihre Socken. Alters-Aufmerksamkeits-Defizit Syndrom gepaart mit Domain-Sammelsucht, vermutlich. Sorry.</p>
 
 <p>Wenigstens hab ich diesmal den einen halbwegs brauchbaren Artikel mit umgezogen. Ist ja auch schon mal was, oder? Ansonsten probier ich hier mal - ganz undogmatisch - Octopress aus, jetzt. Am Farbschema muss ich noch drehen, aber bisher macht das schon einen sehr angenehmen Eindruck.</p>
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[liebe bronies, liebe pegasisters]]></title>
-    <link href="http://rainbowda.sh/blog/liebe-bronies/"/>
+    <link href="http://rainbowda.sh/liebe-bronies/"/>
     <updated>2011-09-21T11:11:00+02:00</updated>
-    <id>http://rainbowda.sh/blog/liebe-bronies</id>
+    <id>http://rainbowda.sh/liebe-bronies</id>
     <content type="html"><![CDATA[<p>kurz meine perspektive:</p>
 
 <ul>

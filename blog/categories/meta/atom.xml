@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meta | Regenbogenpony]]></title>
   <link href="http://rainbowda.sh/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://rainbowda.sh/"/>
-  <updated>2011-10-28T20:44:50+02:00</updated>
+  <updated>2011-10-28T20:47:29+02:00</updated>
   <id>http://rainbowda.sh/</id>
   <author>
     <name><![CDATA[map]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Erster!]]></title>
-    <link href="http://rainbowda.sh/blog/erster/"/>
+    <link href="http://rainbowda.sh/erster/"/>
     <updated>2011-10-28T20:19:00+02:00</updated>
-    <id>http://rainbowda.sh/blog/erster</id>
+    <id>http://rainbowda.sh/erster</id>
     <content type="html"><![CDATA[<p>Ja, ich wechsele die Blogs im Moment irgendwie schneller als andere ihre Socken. Alters-Aufmerksamkeits-Defizit Syndrom gepaart mit Domain-Sammelsucht, vermutlich. Sorry.</p>
 
 <p>Wenigstens hab ich diesmal den einen halbwegs brauchbaren Artikel mit umgezogen. Ist ja auch schon mal was, oder? Ansonsten probier ich hier mal - ganz undogmatisch - Octopress aus, jetzt. Am Farbschema muss ich noch drehen, aber bisher macht das schon einen sehr angenehmen Eindruck.</p>
