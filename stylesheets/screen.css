@@ -7,9 +7,9 @@ p, li {
 }
         
 body > header {
-    background:#e1f1fd url('/images/custom/header.jpg') no-repeat right middle;
+    background:#e1f1fd url('/images/custom/header.jpg') no-repeat right middle ! important;
 }
 
 body > nav {
-    background-color:#bbdff4;
+    background-color:#bbdff4 ! important;
 }
