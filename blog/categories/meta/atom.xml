@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meta | Regenbogenpony]]></title>
   <link href="http://rainbowda.sh/blog/categories/meta/atom.xml" rel="self"/>
   <link href="http://rainbowda.sh/"/>
-  <updated>2012-04-03T15:11:24+02:00</updated>
+  <updated>2012-04-03T15:17:08+02:00</updated>
   <id>http://rainbowda.sh/</id>
   <author>
     <name><![CDATA[map]]></name>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Test]]></title>
-    <link href="http://rainbowda.sh/test/"/>
-    <updated>2012-04-03T14:19:00+02:00</updated>
-    <id>http://rainbowda.sh/test</id>
-    <content type="html"><![CDATA[<p>Teste nur kurz mein Unterwegs-Blog-Setup.</p>
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Erster!]]></title>
