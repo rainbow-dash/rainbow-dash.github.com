@@ -4,7 +4,7 @@
   <title><![CDATA[Regenbogenpony]]></title>
   <link href="http://rainbowda.sh/atom.xml" rel="self"/>
   <link href="http://rainbowda.sh/"/>
-  <updated>2012-04-11T15:35:53+02:00</updated>
+  <updated>2012-04-11T15:37:45+02:00</updated>
   <id>http://rainbowda.sh/</id>
   <author>
     <name><![CDATA[map]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[FILDI]]></title>
+    <link href="http://rainbowda.sh/fildi/"/>
+    <updated>2012-04-11T15:30:00+02:00</updated>
+    <id>http://rainbowda.sh/fildi</id>
+    <content type="html"><![CDATA[<p>Das. Tausend Mal das:</p>
+
+<center><iframe width="640" height="360" src="http://www.youtube.com/embed/RYlCVwxoL_g" frameborder="0" allowfullscreen></iframe></center>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Angst]]></title>
@@ -112,20 +126,6 @@
 <p>Und hier ist der Punkt an dem ich bisher nicht weiterkomme, und auch noch keine wirklich befriedigenden Perspektiven gefunden habe. Dieses - vorallem das eigene - Versagen frustriert mich sehr.</p>
 
 <p>Ich spreche gerne über Dinge die mich bewegen. Die mich ausmachen. Und doch kann ich über viele wesentliche Aspekte meinerselbst nicht öffentlich reden. Weil Andere dadurch Ziele von Diskriminierung werden würden. Oder ich selbst, das ist aber nur Feigheit. Ich hätte gerade für Erstes - weil es für mich nicht kontrollierbar und bewältigbar ist - gerne eine Strategie. Bevor uns das Wasser bis zum Hals steht.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[FILDI]]></title>
-    <link href="http://rainbowda.sh/fildi/"/>
-    <updated>2011-12-31T20:00:00+01:00</updated>
-    <id>http://rainbowda.sh/fildi</id>
-    <content type="html"><![CDATA[<p>Das. Tausend Mal das:</p>
-
-<center><iframe width="640" height="360" src="http://www.youtube.com/embed/RYlCVwxoL_g" frameborder="0" allowfullscreen></iframe></center>
-
-
-
 ]]></content>
   </entry>
   
