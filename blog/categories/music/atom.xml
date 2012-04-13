@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: music | Regenbogenpony]]></title>
+  <link href="http://rainbowda.sh/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://rainbowda.sh/"/>
+  <updated>2012-04-13T22:53:36+02:00</updated>
+  <id>http://rainbowda.sh/</id>
+  <author>
+    <name><![CDATA[map]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Mixtape]]></title>
+    <link href="http://rainbowda.sh/mixtape/"/>
+    <updated>2012-04-13T22:45:00+02:00</updated>
+    <id>http://rainbowda.sh/mixtape</id>
+    <content type="html"><![CDATA[<p><center><iframe src="https://embed.spotify.com/?uri=spotify:user:1121703555:playlist:7JhNB9EfqfSNEKuWLSKsHn" frameborder="0" height="520" width="500"></iframe></center></p>
+
+
+<br/>
+
+]]></content>
+  </entry>
+  
+</feed>
